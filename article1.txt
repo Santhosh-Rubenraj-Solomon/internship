@@ -1,1 +1,1 @@
-ts a practice file to learn how to push git
+its a practice file to learn how to push git
