@@ -1,0 +1,27 @@
+									DAILY ARTICLE-13
+  17-02-2022
+
+	The day started off by improvising the design. I had a new design today which was also not upto the mark.I went to  some of the surfboard people  who gave some suggesions to me to change the way i think and suggested me some websites where I can get some more ideas on how to design an application which satisfies the needs of the problem and the requirement.Then i got some idea on how to design an application .I went to my mentor and then showed him my design he along with ameen bro gave me some more clarity on how an application should look and gave me some examples and they even displayed their design during their intern period .Then i begun to think and explore in different possible ways so that u can be better with my designs for the user's to get the user friendly experience with better starndards . At the end of the day i hope that i learnt how to explore and execute designs so that i can give a presentable application for use in real-time.
+  	Then there was todays session where a solution was given for yesterdays assignment,then there was a problem solving session where we were given  problem which 
+is a bridge problem in that it has four parts which are connected by 7  bridges we have to cross every bridge by touching it only one time after few minutes koushik explined that this problem has no solution and then he  added that this problem will have  a solution if it has a even vertex, then he explained about eulers cycle that isa connected graph contains a eularian cycle if and only if every vertex has even degree of bridge.After that he gave us another problem in eulers graph which has about 20 vertices and about 31 bridges and solved this problem after this he explained about algorithm,algorithm is nothing but a set of instructions for solving a task he explained if we write every steps  for solving a problem it will make an algorithm,then he explained about computers and explained that computers are the most dump,we explains a computer what to do,computers performs every task based on the instrutions given to them which are the algorithms
+          Then i went back to the figma design i was working on  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
