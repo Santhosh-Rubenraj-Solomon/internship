@@ -1,0 +1,10 @@
+										#DAILY ARTICLE-16
+
+
+   22-02-2022
+
+
+	
+	The day started off with learning about the cclasses and objects which was taught by kaushik and I started listening and it was interesting as we kept learning on how to improvise the codes step by step at the same time i was also taught the problems which may occur while coding the classes and the solution on how to solve a problem was also taught very clearly .The things which are happening inside a code after typing was also explained clearly by kaushik which made the session even more interesting.Then i begun to work on my design where i almost completed my users version of the application and there were some suggestions given by my mentor and ameen bro so that i thinked about on how to implement those suggestions and came to a conclusion with the solution .There were certain changes on the design on how to make it look better,i made some changes in the design and then taught about the flow which is necessary for the admins version of the application and wrote it down .
+	There was todays session which stressed the importance of algorithms .We were splited into three groups and was given with seperate problemsvfor each team .It was fun to solve those given problem with some basic instructions which guides the robot to do the given task and come to the starting position after completion of the assigned work.Then session was all about problem solving and giving it a proper planning and to proceedd with the execution part.
+	There were some interesting talks with kaushik about the vision of core illustrio and the journey on how he started the company.Those were very valuable as to know the prespective of a leadership person onn how things work in a startup.Having internship with such experienced people besides me will definitly improve my thinking process and the standard of my thinking ability to the next level,and hopefully i will enhance my skills sets and be a different persons altogether at the end of the intership program.I am getiing ready for a presentation which is about to happen tomorrow  and hopefully it goes on well.   
